@@ -1,6 +1,4 @@
 
 ABOUT ME
 
-My name is Adesanya omorinsola, I started my career in QA not too long ago and I love everything that involves software testing 
-I moved to QA because I am passionate about people shipping and releasing product that are stress free to users.
-I am currently looking for a jnr tester role to prove the skills I already acquired and to grow in the the testing field 
+My name is Adesanya omorinsola, Experienced QA engineer with almost 3 years of hands-on experience. Proven track record in enhancing software functionality, usability, and reliability. Skilled in various QA methodologies and testing techniques, including ISTQB Foundation Level certification. Effective collaborator with cross-functional teams, adept at resolving bugs and managing defects. Committed to continuous improvement and delivering high-quality results on time.
